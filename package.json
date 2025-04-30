@@ -1,0 +1,16 @@
+{
+  "name": "pixi-visualization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "pixi.js": "^8.9.2"
+  }
+}

@@ -13,7 +13,10 @@ An interactive particle system built using [Pixi.js](https://pixijs.com/) where 
 - ⚡ GPU-accelerated rendering with high performance
 
 ## 🖼️ Demo
+#Playable Demo
+> https://arvindsudarshan53.github.io/PixijsTest/
 
+#Video link
 > https://youtu.be/e0gRPVcvPXs
 
 ## Important Scripts

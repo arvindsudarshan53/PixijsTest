@@ -14,5 +14,5 @@ An interactive particle system built using [Pixi.js](https://pixijs.com/) where 
 
 ## 🖼️ Demo
 
-> Coming soon
+> https://youtu.be/e0gRPVcvPXs
 

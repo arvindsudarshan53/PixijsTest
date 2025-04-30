@@ -16,3 +16,10 @@ An interactive particle system built using [Pixi.js](https://pixijs.com/) where 
 
 > https://youtu.be/e0gRPVcvPXs
 
+## Important Scripts
+
+-  **generate_dataset to create 10000 dataset, run `node generate_dataset.js` to generate dataset.json
+-  **UICotroller.js
+-  **ParticleSystem.js
+-  **DataManager.js, provision for fetching dataset from URL
+

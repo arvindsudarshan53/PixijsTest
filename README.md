@@ -17,9 +17,10 @@ An interactive particle system built using [Pixi.js](https://pixijs.com/) where 
 > https://arvindsudarshan53.github.io/PixijsTest/
 
 #Video link
+> https://youtu.be/e0gRPVcvPXs
+
 > https://youtu.be/3FkdGMTS60c
 
-> https://youtu.be/e0gRPVcvPXs
 
 ## Important Scripts
 
